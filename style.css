@@ -1,0 +1,614 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #ffffff;
+  width: 360px;
+  height: 1965px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-12 {
+  background: #d9d9d9;
+  width: 360px;
+  height: 66px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.group-12 {
+  position: absolute;
+  inset: 0;
+}
+.group-1 {
+  position: absolute;
+  left: 28px;
+  top: 10px;
+  overflow: visible;
+}
+.logo-tagline {
+  color: #000000;
+  text-align: left;
+  font: 400 11px "Inter", sans-serif;
+  position: absolute;
+  left: 83px;
+  top: 25px;
+  width: 70.79px;
+  height: 13.88px;
+}
+.group-27 {
+  position: absolute;
+  inset: 0;
+}
+.group-13 {
+  position: absolute;
+  left: 20px;
+  top: 1379px;
+  overflow: visible;
+}
+.logo-tagline2 {
+  color: #000000;
+  text-align: left;
+  font: 400 11px "Inter", sans-serif;
+  position: absolute;
+  left: 75px;
+  top: 1394px;
+  width: 70.79px;
+  height: 13.88px;
+}
+.rectangle-9 {
+  background: #d9d9d9;
+  width: 360px;
+  height: 246px;
+  position: absolute;
+  left: 0px;
+  top: 304px;
+}
+.rectangle-10 {
+  background: #d9d9d9;
+  width: 360px;
+  height: 246px;
+  position: absolute;
+  left: calc(50% - 180px);
+  top: 1093px;
+}
+.ci-hamburger-md {
+  position: absolute;
+  left: 287px;
+  top: 10px;
+  overflow: visible;
+}
+.makanan-enak-rp-50-000 {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  left: 46px;
+  top: 126px;
+  width: 101px;
+  height: 65px;
+}
+.makanan-enak-rp-50-000-span {
+  color: #000000;
+  font: 700 20px "Inter", sans-serif;
+}
+.makanan-enak-rp-50-000-span2 {
+  color: #000000;
+  font: 400 10px "Inter", sans-serif;
+}
+.menu {
+  color: #000000;
+  text-align: left;
+  font: 700 15px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 22px);
+  top: 322px;
+  width: 44px;
+  height: 18px;
+}
+.deskripsi-maybe-tentang-makanannya-kek-gini-gitu-lochh-trus-ada-jga-ininya-gess-dan-bguski-kek-wow-banget-btw-ini-menunya-bisa-kek-di-slide-ki-nah-okeee {
+  color: #000000;
+  text-align: center;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 123px);
+  top: 346px;
+  width: 246px;
+  height: 60px;
+}
+.intersect {
+  position: absolute;
+  left: 115.32px;
+  top: 505.23px;
+  transform: translate(-53.8px, -100.92px);
+  overflow: visible;
+}
+.intersect2 {
+  position: absolute;
+  left: 223.67px;
+  top: 505.23px;
+  transform: translate(-53.8px, -100.92px);
+  overflow: visible;
+}
+.rp-15-000 {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 46px;
+  top: 519px;
+  width: 53px;
+  height: 13px;
+}
+.rp-15-0002 {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 158px;
+  top: 519px;
+  width: 52px;
+  height: 13px;
+}
+.makanan-2 {
+  color: #000000;
+  text-align: left;
+  font: 600 8px "Inter", sans-serif;
+  position: absolute;
+  left: 49px;
+  top: 508px;
+  width: 46px;
+  height: 11px;
+}
+.makanan-3 {
+  color: #000000;
+  text-align: left;
+  font: 600 8px "Inter", sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 508px;
+  width: 45px;
+  height: 11px;
+}
+.ellipse-8 {
+  background: #878585;
+  border-radius: 50%;
+  width: 81px;
+  height: 81px;
+  position: absolute;
+  left: 28px;
+  top: 418px;
+}
+.foto-makanan {
+  color: #000000;
+  text-align: left;
+  font: 400 5px "Inter", sans-serif;
+  position: absolute;
+  left: 51px;
+  top: 455px;
+  width: 43px;
+  height: 6px;
+}
+.ellipse-9 {
+  background: #878585;
+  border-radius: 50%;
+  width: 80px;
+  height: 81px;
+  position: absolute;
+  left: 137px;
+  top: 418px;
+}
+.foto-makanan2 {
+  color: #000000;
+  text-align: left;
+  font: 400 5px "Inter", sans-serif;
+  position: absolute;
+  left: 162px;
+  top: 455px;
+  width: 43px;
+  height: 6px;
+}
+.intersect3 {
+  position: absolute;
+  left: 332px;
+  top: 505.23px;
+  transform: translate(-53.8px, -100.92px);
+  overflow: visible;
+}
+.rp-15-0003 {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 266px;
+  top: 519px;
+  width: 52px;
+  height: 13px;
+}
+.makanan-4 {
+  color: #000000;
+  text-align: left;
+  font: 600 8px "Inter", sans-serif;
+  position: absolute;
+  left: 269px;
+  top: 508px;
+  width: 46px;
+  height: 11px;
+}
+.ellipse-10 {
+  background: #878585;
+  border-radius: 50%;
+  width: 81px;
+  height: 81px;
+  position: absolute;
+  left: 245px;
+  top: 418px;
+}
+.foto-makanan3 {
+  color: #000000;
+  text-align: left;
+  font: 400 5px "Inter", sans-serif;
+  position: absolute;
+  left: 272px;
+  top: 455px;
+  width: 43px;
+  height: 6px;
+}
+.events {
+  color: #000000;
+  text-align: left;
+  font: 700 15px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 163px);
+  top: 567px;
+  width: 53px;
+  height: 18px;
+}
+.group-122 {
+  position: absolute;
+  left: 17px;
+  top: 597px;
+  overflow: visible;
+}
+.group-24 {
+  position: absolute;
+  left: 188px;
+  top: 717px;
+  overflow: visible;
+}
+.group-26 {
+  position: absolute;
+  left: 188px;
+  top: 957px;
+  overflow: visible;
+}
+.group-25 {
+  position: absolute;
+  left: 17px;
+  top: 837px;
+  overflow: visible;
+}
+.cerita-cerita-keterangan-tentang-event-nya {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 188px;
+  top: 635px;
+  width: 110px;
+  height: 41px;
+}
+.cerita-cerita-keterangan-tentang-event-nya2 {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 188px;
+  top: 875px;
+  width: 110px;
+  height: 41px;
+}
+.event-1 {
+  color: #000000;
+  text-align: left;
+  font: 600 15px "Inter", sans-serif;
+  position: absolute;
+  left: 188px;
+  top: 617px;
+  width: 55px;
+  height: 18px;
+}
+.event-3 {
+  color: #000000;
+  text-align: left;
+  font: 600 15px "Inter", sans-serif;
+  position: absolute;
+  left: 188px;
+  top: 857px;
+  width: 55px;
+  height: 18px;
+}
+.cerita-cerita-keterangan-tentang-event-nya3 {
+  color: #000000;
+  text-align: right;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 72px;
+  top: 755px;
+  width: 99px;
+  height: 44px;
+}
+.cerita-cerita-keterangan-tentang-event-nya4 {
+  color: #000000;
+  text-align: right;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 72px;
+  top: 995px;
+  width: 99px;
+  height: 44px;
+}
+.social-media {
+  color: #000000;
+  text-align: left;
+  font: 700 15px "Inter", sans-serif;
+  position: absolute;
+  left: 20px;
+  top: 1445px;
+  width: 97px;
+  height: 19px;
+}
+.e-commerce {
+  color: #000000;
+  text-align: left;
+  font: 700 15px "Inter", sans-serif;
+  position: absolute;
+  left: 21px;
+  top: 1565px;
+  width: 97px;
+  height: 19px;
+}
+.event-2 {
+  color: #000000;
+  text-align: right;
+  font: 600 15px "Inter", sans-serif;
+  position: absolute;
+  left: 113px;
+  top: 733px;
+  width: 58px;
+  height: 22px;
+}
+.event-4 {
+  color: #000000;
+  text-align: right;
+  font: 600 15px "Inter", sans-serif;
+  position: absolute;
+  left: 113px;
+  top: 973px;
+  width: 58px;
+  height: 22px;
+}
+.ndhirailmi {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 1472px;
+  width: 46px;
+  height: 12px;
+}
+.ndhirailmi2 {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 1499px;
+  width: 46px;
+  height: 11px;
+}
+.link-wa {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 1526px;
+  width: 34px;
+  height: 13px;
+}
+.vector2 {
+  position: absolute;
+  left: 20px;
+  top: 1521.5px;
+  overflow: visible;
+}
+.mdi-instagram {
+  position: absolute;
+  left: 20px;
+  top: 1471px;
+  overflow: visible;
+}
+.ic-baseline-facebook {
+  position: absolute;
+  left: 20px;
+  top: 1499px;
+  overflow: visible;
+}
+.shopee-food {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 1593px;
+  width: 64px;
+  height: 13px;
+}
+.gojek {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 41px;
+  top: 1619px;
+  width: 27px;
+  height: 15px;
+}
+.grab {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 42px;
+  top: 1647px;
+  width: 23px;
+  height: 15px;
+}
+.simple-icons-shopee {
+  position: absolute;
+  left: 20px;
+  top: 1591px;
+  overflow: visible;
+}
+.group-7 {
+  position: absolute;
+  left: 20px;
+  top: 1630.67px;
+  overflow: visible;
+}
+.group-8 {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-7 {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 16px;
+  height: 17.39px;
+  position: absolute;
+  left: 20px;
+  top: 1894.84px;
+}
+.simple-icons-grab {
+  position: absolute;
+  left: 21.71px;
+  top: 1648.17px;
+  overflow: visible;
+}
+.intersect4 {
+  position: absolute;
+  left: 27px;
+  top: 1137px;
+  transform: translate(0px, 0px);
+  overflow: visible;
+}
+.ellipse-72 {
+  background: #878585;
+  border-radius: 50%;
+  width: 138px;
+  height: 138px;
+  position: absolute;
+  left: 36.51px;
+  top: 1147px;
+  box-shadow: 4px 4px 16px 0px rgba(0, 0, 0, 0.25);
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font: 700 10px "Inter", sans-serif;
+  position: absolute;
+  left: 186px;
+  top: 1156px;
+  width: 33px;
+  height: 11px;
+}
+.genhara-food-and-drinks {
+  color: #000000;
+  text-align: left;
+  font: 400 15px "Inter", sans-serif;
+  position: absolute;
+  left: 186px;
+  top: 1170px;
+  width: 101px;
+  height: 36px;
+}
+.sejarahnya-disini-nanti-profil-industri-nanti-disini-apa-bgini-bgitu-bgitu-bgini-dan-lain-lain-disni-semua {
+  color: #000000;
+  text-align: left;
+  font: 400 10px "Inter", sans-serif;
+  position: absolute;
+  left: 186px;
+  top: 1209px;
+  width: 147px;
+  height: 52px;
+}
+.more {
+  color: #000000;
+  text-align: left;
+  font: 600 10px "Inter", sans-serif;
+  position: absolute;
+  left: 186px;
+  top: 1268px;
+  width: 114px;
+  height: 8px;
+}
+.group-28 {
+  position: absolute;
+  inset: 0;
+}
+.intersect5 {
+  position: absolute;
+  left: 319.15px;
+  top: 257px;
+  transform: translate(-98.74px, -191.1px);
+  overflow: visible;
+}
+.ellipse-73 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 161.04px;
+  height: 160.71px;
+  position: absolute;
+  left: 147px;
+  top: 84.41px;
+}
+.foto-makanan4 {
+  color: #000000;
+  text-align: left;
+  font: 400 9px "Inter", sans-serif;
+  position: absolute;
+  left: 201.78px;
+  top: 160.31px;
+  width: 61.71px;
+  height: 9.24px;
+}
+.group-123 {
+  width: 73.52px;
+  height: 73.52px;
+  position: static;
+}
+.image-1 {
+  width: 73.52px;
+  height: 73.52px;
+  position: absolute;
+  left: 292.27px;
+  top: 59px;
+  transform-origin: 0 0;
+  transform: rotate(31.954deg) scale(1, 1);
+}
+.best-seller {
+  color: #ffffff;
+  text-align: center;
+  font: 700 15px "Inter", sans-serif;
+  position: absolute;
+  left: 284.25px;
+  top: 84px;
+  width: 49.41px;
+  height: 40.98px;
+  transform-origin: 0 0;
+  transform: rotate(13.042deg) scale(1, 1);
+}
